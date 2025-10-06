@@ -1,0 +1,24 @@
+{
+  "name": "supriya-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Supriya Tiwari - CS5610 Web Development Assignment",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "start": "npx http-server -p 8080",
+    "format": "prettier --write \"**/*.{html,css,js,json,md}\"",
+    "lint": "eslint js/**/*.js"
+  },
+  "keywords": [
+    "portfolio",
+    "web-development",
+    "personal-website"
+  ],
+  "author": "Supriya Tiwari",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "prettier": "^3.0.0",
+    "http-server": "^14.1.1"
+  }
+}

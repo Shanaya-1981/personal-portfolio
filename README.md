@@ -40,7 +40,7 @@ Supriya Tiwari
 This project was created as part of [CS5610 Project 1] coursework.
 
 ## Video Demonstration
-[Link to video](YOUR_VIDEO_LINK_HERE)
+[Link to video](https://youtu.be/3Q9aWzPaLb0)
 
 ## Generative AI Usage
 This project used **Claude Sonnet 4.5** (by Anthropic) accessed via claude.ai on October 1, 2025 for assistance in the following areas:
@@ -56,3 +56,4 @@ This project used **Claude Sonnet 4.5** (by Anthropic) accessed via claude.ai on
 3. **Debugging Layout and Spacing Issues**
    - **Prompt:** "Why is my navigation not showing properly? How do I fix spacing between hero sections?"
    - **Outcome:** Fixed flexbox alignment and margin/padding issues
+
